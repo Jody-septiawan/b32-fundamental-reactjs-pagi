@@ -27,6 +27,12 @@ function ConditionRenderin() {
 
   console.log(isLogin);
 
+  // if(isLogin){
+  //   //render element PrivatePage
+  // }else{
+  //   //render element GuestPage
+  // }
+
   return (
     // Code Inside div
     <div>
